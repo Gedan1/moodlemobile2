@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <widget id="gr.eschools.mobile" version="3.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>eSchool Mobile</name>
-  <description>Official eSchool Mobile app</description>
+  <description>eSchool Mobile app</description>
   <author href="http://eschools.gr" email="gdangas@ellab.gr">Ge Ntagkas</author>
   <content src="index.html"/>
   <access origin="*"/>
